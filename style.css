@@ -728,6 +728,7 @@ a {
     position: absolute;
     left: 0;
     top: 70px;
+    cursor: pointer;
 }
 
 .contents03_news_img li {
